@@ -1,0 +1,65 @@
+     1                                  
+     2                                  extern	printf
+     3                                  extern  scanf
+     4                                  global 	main
+     5                                  
+     6                                  
+     7                                  section	.data
+     8                                  
+     9 00000000 25640A00256400          __format:	db	'%d', 10, 0, '%d', 0
+    10 00000007 00000000                __number_buff:	dd	0000
+    11                                  
+    12                                  section .text
+    13                                  
+    14                                  
+    15                                  in:
+    16 00000000 55                      	push	rbp
+    17 00000001 4889E5                  	mov	rbp,	rsp
+    18                                  
+    19 00000004 48BF-                   	mov	rdi,	__format + 4
+    19 00000006 [0400000000000000] 
+    20 0000000E 48BE-                   	mov	rsi,	__number_buff
+    20 00000010 [0700000000000000] 
+    21 00000018 E8(00000000)            	call	scanf
+    22                                  
+    23 0000001D 4889EC                  	mov	rsp,	rbp
+    24 00000020 5D                      	pop	rbp
+    25                                  
+    26 00000021 C3                      	ret
+    27                                  
+    28                                  
+    29                                  out:	
+    30 00000022 55                      	push	rbp
+    31 00000023 4889E5                  	mov	rbp,	rsp
+    32                                  	
+    33 00000026 48BF-                   	mov	rdi,	__format
+    33 00000028 [0000000000000000] 
+    34 00000030 B801000000              	mov	rax,	1
+    35 00000035 E8(00000000)            	call	printf
+    36                                  
+    37 0000003A 4889EC                  	mov	rsp,	rbp
+    38 0000003D 5D                      	pop	rbp
+    39                                  
+    40 0000003E C3                      	ret
+    41                                  
+    42                                  main:
+    43 0000003F E809000000              	call	code
+    44 00000044 C3                      	ret
+    45                                  
+    46 00000045 486D6D6D6D6D6D6D        mm	dq	0x6D6D6D6D6D6D6D48
+    47                                  code:
+    48 0000004D 6A03                    	push 3
+    49 0000004F 6A04                    	push 4
+    50 00000051 8F0425[07000000]        	pop 	qword [__number_buff]
+    51 00000058 DF2C25[07000000]        	fild	qword [__number_buff]
+    52 0000005F 8F0425[07000000]        	pop 	qword [__number_buff]
+    53 00000066 DF2C25[07000000]        	fild	qword [__number_buff]
+    54 0000006D DEC9                    	fmul
+    55 0000006F DF3C25[07000000]        	fistp qword [__number_buff]
+    56 00000076 FF3425[07000000]        	push qword [__number_buff]
+    57                                  
+    58 0000007D 5E                      	pop rsi
+    59 0000007E E89FFFFFFF              	call out
+    60                                  
+    61 00000083 90<rept>                	times 	1000000 nop
+    62 000F42C3 C3                      	ret

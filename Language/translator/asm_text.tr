@@ -1,0 +1,20 @@
+
+jmp strt
+
+faf:
+push x1
+push 3
+sub
+pop x1
+ret
+
+strt:
+in
+out
+push 3
+push 4
+mul
+pop
+
+
+ret

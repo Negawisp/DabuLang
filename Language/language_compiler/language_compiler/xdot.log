@@ -1,0 +1,1361 @@
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10604): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10642): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10680): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10726): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10756): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10827): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10894): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10925): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10965): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11071): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11098): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11143): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11199): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11239): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11261): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11289): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:12506): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:12647): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:12669): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:1848): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2390): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2421): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2454): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2484): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2568): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2610): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2635): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:2987): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:3111): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:3134): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:3162): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:3199): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:3227): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:3262): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:4628): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:4662): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:4724): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:4933): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:4967): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5001): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5053): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5420): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5501): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5581): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5595): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:5739): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:6655): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:6676): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:7015): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:7119): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:7209): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:7680): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:7927): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:8142): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:8502): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:8527): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9157): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9605): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9657): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9679): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9799): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9818): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9863): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9890): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9934): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:9978): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10015): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:10043): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+sh: 1: xdot: not found

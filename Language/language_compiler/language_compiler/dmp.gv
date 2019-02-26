@@ -1,0 +1,93 @@
+digraph G {
+Node0x5615a6e56010
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56010 | DATA: 4.000000 \l (Lo'Gosh) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56048 | <rght> RIGHT:  0x5615a6e565f8 | <prnt> Parent:  (nil)}"];
+Node0x5615a6e56010 : <left> -> Node0x5615a6e56048 : <adr> [color = blue];
+Node0x5615a6e56010 : <rght> -> Node0x5615a6e565f8 : <adr> [color = green];
+Node0x5615a6e565f8
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e565f8 | DATA: 4.000000 \l (Lo'Gosh) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56630 | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56010}"];
+Node0x5615a6e565f8 : <left> -> Node0x5615a6e56630 : <adr> [color = blue];
+Node0x5615a6e565f8 : <prnt> -> Node0x5615a6e56010 : <adr> [color = gray];
+Node0x5615a6e56630
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56630 | DATA: 4.000000 \l(Lok'Tar!) | Node_type: Func |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  0x5615a6e56710 | <prnt> Parent:  0x5615a6e565f8}"];
+Node0x5615a6e56630 : <rght> -> Node0x5615a6e56710 : <adr> [color = green];
+Node0x5615a6e56630 : <prnt> -> Node0x5615a6e565f8 : <adr> [color = gray];
+Node0x5615a6e56710
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56710 | DATA: 13.000000 \l (Lok'Tra) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56780 | <rght> RIGHT:  0x5615a6e56828 | <prnt> Parent:  0x5615a6e56630}"];
+Node0x5615a6e56710 : <left> -> Node0x5615a6e56780 : <adr> [color = blue];
+Node0x5615a6e56710 : <rght> -> Node0x5615a6e56828 : <adr> [color = green];
+Node0x5615a6e56710 : <prnt> -> Node0x5615a6e56630 : <adr> [color = gray];
+Node0x5615a6e56828
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56828 | DATA: 14.000000 \l (Lok-Narash) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56860 | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56710}"];
+Node0x5615a6e56828 : <left> -> Node0x5615a6e56860 : <adr> [color = blue];
+Node0x5615a6e56828 : <prnt> -> Node0x5615a6e56710 : <adr> [color = gray];
+Node0x5615a6e56860
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56860 | DATA: 0.000000  | Node_type: Nume |  Canary1:   Nume \l Canary2:   Nume \l Should be: Nume | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56828}"];
+Node0x5615a6e56860 : <prnt> -> Node0x5615a6e56828 : <adr> [color = gray];
+Node0x5615a6e56780
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56780 | DATA: 1488.000000  | Node_type: Nume |  Canary1:   Nume \l Canary2:   Nume \l Should be: Nume | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56710}"];
+Node0x5615a6e56780 : <prnt> -> Node0x5615a6e56710 : <adr> [color = gray];
+Node0x5615a6e56048
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56048 | DATA: 0.000000 \l(Horde) | Node_type: Func |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  0x5615a6e560b8 | <rght> RIGHT:  0x5615a6e56208 | <prnt> Parent:  0x5615a6e56010}"];
+Node0x5615a6e56048 : <left> -> Node0x5615a6e560b8 : <adr> [color = blue];
+Node0x5615a6e56048 : <rght> -> Node0x5615a6e56208 : <adr> [color = green];
+Node0x5615a6e56048 : <prnt> -> Node0x5615a6e56010 : <adr> [color = gray];
+Node0x5615a6e56208
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56208 | DATA: 3.000000 \l (Trom-Ka) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56240 | <rght> RIGHT:  0x5615a6e56390 | <prnt> Parent:  0x5615a6e56048}"];
+Node0x5615a6e56208 : <left> -> Node0x5615a6e56240 : <adr> [color = blue];
+Node0x5615a6e56208 : <rght> -> Node0x5615a6e56390 : <adr> [color = green];
+Node0x5615a6e56208 : <prnt> -> Node0x5615a6e56048 : <adr> [color = gray];
+Node0x5615a6e56390
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56390 | DATA: 13.000000 \l (Lok'Tra) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56438 | <rght> RIGHT:  0x5615a6e56518 | <prnt> Parent:  0x5615a6e56208}"];
+Node0x5615a6e56390 : <left> -> Node0x5615a6e56438 : <adr> [color = blue];
+Node0x5615a6e56390 : <rght> -> Node0x5615a6e56518 : <adr> [color = green];
+Node0x5615a6e56390 : <prnt> -> Node0x5615a6e56208 : <adr> [color = gray];
+Node0x5615a6e56518
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56518 | DATA: 14.000000 \l (Lok-Narash) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56550 | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56390}"];
+Node0x5615a6e56518 : <left> -> Node0x5615a6e56550 : <adr> [color = blue];
+Node0x5615a6e56518 : <prnt> -> Node0x5615a6e56390 : <adr> [color = gray];
+Node0x5615a6e56550
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56550 | DATA: 3.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56518}"];
+Node0x5615a6e56550 : <prnt> -> Node0x5615a6e56518 : <adr> [color = gray];
+Node0x5615a6e56438
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56438 | DATA: 3.000000 \l (*) | Node_type: Oper |  Canary1:   Oper \l Canary2:   Oper \l Should be: Oper | <left> LEFT:  0x5615a6e56400 | <rght> RIGHT:  0x5615a6e56470 | <prnt> Parent:  0x5615a6e56390}"];
+Node0x5615a6e56438 : <left> -> Node0x5615a6e56400 : <adr> [color = blue];
+Node0x5615a6e56438 : <rght> -> Node0x5615a6e56470 : <adr> [color = green];
+Node0x5615a6e56438 : <prnt> -> Node0x5615a6e56390 : <adr> [color = gray];
+Node0x5615a6e56470
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56470 | DATA: 5.000000  | Node_type: Nume |  Canary1:   Nume \l Canary2:   Nume \l Should be: Nume | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56438}"];
+Node0x5615a6e56470 : <prnt> -> Node0x5615a6e56438 : <adr> [color = gray];
+Node0x5615a6e56400
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56400 | DATA: 3.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56438}"];
+Node0x5615a6e56400 : <prnt> -> Node0x5615a6e56438 : <adr> [color = gray];
+Node0x5615a6e56240
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e56240 | DATA: 3.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  0x5615a6e562e8 | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56208}"];
+Node0x5615a6e56240 : <left> -> Node0x5615a6e562e8 : <adr> [color = blue];
+Node0x5615a6e56240 : <prnt> -> Node0x5615a6e56208 : <adr> [color = gray];
+Node0x5615a6e562e8
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e562e8 | DATA: 3.000000 \l (*) | Node_type: Oper |  Canary1:   Oper \l Canary2:   Oper \l Should be: Oper | <left> LEFT:  0x5615a6e562b0 | <rght> RIGHT:  0x5615a6e56320 | <prnt> Parent:  0x5615a6e56240}"];
+Node0x5615a6e562e8 : <left> -> Node0x5615a6e562b0 : <adr> [color = blue];
+Node0x5615a6e562e8 : <rght> -> Node0x5615a6e56320 : <adr> [color = green];
+Node0x5615a6e562e8 : <prnt> -> Node0x5615a6e56240 : <adr> [color = gray];
+Node0x5615a6e56320
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56320 | DATA: 2.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e562e8}"];
+Node0x5615a6e56320 : <prnt> -> Node0x5615a6e562e8 : <adr> [color = gray];
+Node0x5615a6e562b0
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e562b0 | DATA: 1.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e562e8}"];
+Node0x5615a6e562b0 : <prnt> -> Node0x5615a6e562e8 : <adr> [color = gray];
+Node0x5615a6e560b8
+[shape = record, color = black,  label = "{ <adr> 0x5615a6e560b8 | DATA: 3.000000 \l (Trom-Ka) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  0x5615a6e56128 | <rght> RIGHT:  0x5615a6e560f0 | <prnt> Parent:  0x5615a6e56048}"];
+Node0x5615a6e560b8 : <left> -> Node0x5615a6e56128 : <adr> [color = blue];
+Node0x5615a6e560b8 : <rght> -> Node0x5615a6e560f0 : <adr> [color = green];
+Node0x5615a6e560b8 : <prnt> -> Node0x5615a6e56048 : <adr> [color = gray];
+Node0x5615a6e560f0
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e560f0 | DATA: 1.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e560b8}"];
+Node0x5615a6e560f0 : <prnt> -> Node0x5615a6e560b8 : <adr> [color = gray];
+Node0x5615a6e56128
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56128 | DATA: 3.000000 \l (Trom-Ka) | Node_type: KeyW |  Canary1:   KeyW \l Canary2:   KeyW \l Should be: KeyW | <left> LEFT:  (nil) | <rght> RIGHT:  0x5615a6e56160 | <prnt> Parent:  0x5615a6e560b8}"];
+Node0x5615a6e56128 : <rght> -> Node0x5615a6e56160 : <adr> [color = green];
+Node0x5615a6e56128 : <prnt> -> Node0x5615a6e560b8 : <adr> [color = gray];
+Node0x5615a6e56160
+[shape = record, color = green,  label = "{ <adr> 0x5615a6e56160 | DATA: 2.000000 \l(VARIABLE) | Node_type: Vrbl |  Canary1:   Duno \l Canary2:   Duno \l Should be: Duno | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x5615a6e56128}"];
+Node0x5615a6e56160 : <prnt> -> Node0x5615a6e56128 : <adr> [color = gray];
+
+}

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1513451203 source:/home/negawisp/Projects/Assembler/main.cpp
+	<iostream>
+	<string.h>
+	"Enum.h"
+	"commands.h"
+	"commands.h"
+
+1513496353 /home/negawisp/Projects/Assembler/Enum.h
+	<math.h>
+	"stack.h"
+	"commands.h"
+
+1509395902 /home/negawisp/Projects/Assembler/stack.h
+	<cstring>
+	<stdlib.h>
+
+1509537282 /home/negawisp/Projects/Assembler/commands.h
+

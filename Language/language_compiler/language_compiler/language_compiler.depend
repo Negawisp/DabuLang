@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1513634094 source:/home/negawisp/Projects/language_compiler/language_compiler/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+	"lexic_builder.h"
+	"tree_builder.h"
+	"ACM_builder.h"
+
+1513634071 /home/negawisp/Projects/language_compiler/language_compiler/tree.h
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<assert.h>
+	"settings.h"
+	"key_words_list.h"
+	"operators_list.h"
+	"key_words_list.h"
+	"operators_list.h"
+
+1513543008 /home/negawisp/Projects/language_compiler/language_compiler/settings.h
+	"key_words_list.h"
+	"operators_list.h"
+
+1513543051 /home/negawisp/Projects/language_compiler/language_compiler/lexic_builder.h
+	<math.h>
+	"operators_list.h"
+	"key_words_list.h"
+
+1513633940 /home/negawisp/Projects/language_compiler/language_compiler/operators_list.h
+
+1513542588 /home/negawisp/Projects/language_compiler/language_compiler/key_words_list.h
+
+1513034365 source:/home/negawisp/Projects/differential/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"tree.h"
+	"differential.h"
+
+1513034597 /home/negawisp/Projects/differential/tree.h
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"functions_list.h"
+
+1513070801 /home/negawisp/Projects/differential/functions_list.h
+
+1513034012 /home/negawisp/Projects/differential/differential.h
+	<math.h>
+	"functions_list.h"
+	"functions_list.h"
+	"functions_list.h"
+	"functions_list.h"
+
+1513634461 /home/negawisp/Projects/language_compiler/language_compiler/tree_builder.h
+
+1513634829 /home/negawisp/Projects/language_compiler/language_compiler/ACM_builder.h
+	"key_words_list.h"
+	"operators_list.h"
+	"key_words_list.h"
+
