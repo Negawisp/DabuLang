@@ -1,2 +1,2 @@
 # Language
-Assembler, Compiler, Processor emulator and Binary translator.
+Assembler, Compiler, Processor emulator and Binary translator. (Translator isn't finished)
